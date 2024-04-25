@@ -1,0 +1,2079 @@
+﻿[
+  {
+    "p": {
+      "start": {
+        "identity": 182,
+        "labels": [
+          "Recipe"
+        ],
+        "properties": {
+          "name": "Spaghetti Bolognese"
+        },
+        "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:182"
+      },
+      "end": {
+        "identity": 185,
+        "labels": [
+          "Ingredient"
+        ],
+        "properties": {
+          "name": "Spaghetti"
+        },
+        "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:185"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 182,
+            "labels": [
+              "Recipe"
+            ],
+            "properties": {
+              "name": "Spaghetti Bolognese"
+            },
+            "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:182"
+          },
+          "relationship": {
+            "identity": 256,
+            "start": 182,
+            "end": 185,
+            "type": "CONTAINS",
+            "properties": {
+              "weight": 200
+            },
+            "elementId": "5:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:256",
+            "startNodeElementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:182",
+            "endNodeElementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:185"
+          },
+          "end": {
+            "identity": 185,
+            "labels": [
+              "Ingredient"
+            ],
+            "properties": {
+              "name": "Spaghetti"
+            },
+            "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:185"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 182,
+        "labels": [
+          "Recipe"
+        ],
+        "properties": {
+          "name": "Spaghetti Bolognese"
+        },
+        "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:182"
+      },
+      "end": {
+        "identity": 186,
+        "labels": [
+          "Ingredient"
+        ],
+        "properties": {
+          "name": "Tomato Sauce"
+        },
+        "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:186"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 182,
+            "labels": [
+              "Recipe"
+            ],
+            "properties": {
+              "name": "Spaghetti Bolognese"
+            },
+            "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:182"
+          },
+          "relationship": {
+            "identity": 257,
+            "start": 182,
+            "end": 186,
+            "type": "CONTAINS",
+            "properties": {
+              "weight": 300
+            },
+            "elementId": "5:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:257",
+            "startNodeElementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:182",
+            "endNodeElementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:186"
+          },
+          "end": {
+            "identity": 186,
+            "labels": [
+              "Ingredient"
+            ],
+            "properties": {
+              "name": "Tomato Sauce"
+            },
+            "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:186"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 182,
+        "labels": [
+          "Recipe"
+        ],
+        "properties": {
+          "name": "Spaghetti Bolognese"
+        },
+        "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:182"
+      },
+      "end": {
+        "identity": 187,
+        "labels": [
+          "Ingredient"
+        ],
+        "properties": {
+          "name": "Ground Beef"
+        },
+        "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:187"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 182,
+            "labels": [
+              "Recipe"
+            ],
+            "properties": {
+              "name": "Spaghetti Bolognese"
+            },
+            "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:182"
+          },
+          "relationship": {
+            "identity": 258,
+            "start": 182,
+            "end": 187,
+            "type": "CONTAINS",
+            "properties": {
+              "weight": 500
+            },
+            "elementId": "5:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:258",
+            "startNodeElementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:182",
+            "endNodeElementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:187"
+          },
+          "end": {
+            "identity": 187,
+            "labels": [
+              "Ingredient"
+            ],
+            "properties": {
+              "name": "Ground Beef"
+            },
+            "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:187"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 215,
+        "labels": [
+          "Recipe"
+        ],
+        "properties": {
+          "name": "Chicken Alfredo"
+        },
+        "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:215"
+      },
+      "end": {
+        "identity": 191,
+        "labels": [
+          "Ingredient"
+        ],
+        "properties": {
+          "name": "Parmesan Cheese"
+        },
+        "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:191"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 215,
+            "labels": [
+              "Recipe"
+            ],
+            "properties": {
+              "name": "Chicken Alfredo"
+            },
+            "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:215"
+          },
+          "relationship": {
+            "identity": 259,
+            "start": 215,
+            "end": 191,
+            "type": "CONTAINS",
+            "properties": {
+
+            },
+            "elementId": "5:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:259",
+            "startNodeElementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:215",
+            "endNodeElementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:191"
+          },
+          "end": {
+            "identity": 191,
+            "labels": [
+              "Ingredient"
+            ],
+            "properties": {
+              "name": "Parmesan Cheese"
+            },
+            "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:191"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 246,
+        "labels": [
+          "Ingredient"
+        ],
+        "properties": {
+          "unit": "g",
+          "name": "Mixed Salad Greens",
+          "weight": 150
+        },
+        "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:246"
+      },
+      "end": {
+        "identity": 206,
+        "labels": [
+          "Ingredient"
+        ],
+        "properties": {
+          "unit": "g",
+          "name": "Lettuce",
+          "weight": 150
+        },
+        "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:206"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 246,
+            "labels": [
+              "Ingredient"
+            ],
+            "properties": {
+              "unit": "g",
+              "name": "Mixed Salad Greens",
+              "weight": 150
+            },
+            "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:246"
+          },
+          "relationship": {
+            "identity": 260,
+            "start": 246,
+            "end": 206,
+            "type": "HAS_REPLACEMENT",
+            "properties": {
+
+            },
+            "elementId": "5:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:260",
+            "startNodeElementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:246",
+            "endNodeElementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:206"
+          },
+          "end": {
+            "identity": 206,
+            "labels": [
+              "Ingredient"
+            ],
+            "properties": {
+              "unit": "g",
+              "name": "Lettuce",
+              "weight": 150
+            },
+            "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:206"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 184,
+        "labels": [
+          "Recipe"
+        ],
+        "properties": {
+          "name": "Caesar Salad"
+        },
+        "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:184"
+      },
+      "end": {
+        "identity": 193,
+        "labels": [
+          "Ingredient"
+        ],
+        "properties": {
+          "unit": "g",
+          "name": "Croutons",
+          "weight": 50
+        },
+        "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:193"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 184,
+            "labels": [
+              "Recipe"
+            ],
+            "properties": {
+              "name": "Caesar Salad"
+            },
+            "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:184"
+          },
+          "relationship": {
+            "identity": 261,
+            "start": 184,
+            "end": 193,
+            "type": "CONTAINS",
+            "properties": {
+              "weight": 50
+            },
+            "elementId": "5:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:261",
+            "startNodeElementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:184",
+            "endNodeElementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:193"
+          },
+          "end": {
+            "identity": 193,
+            "labels": [
+              "Ingredient"
+            ],
+            "properties": {
+              "unit": "g",
+              "name": "Croutons",
+              "weight": 50
+            },
+            "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:193"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 184,
+        "labels": [
+          "Recipe"
+        ],
+        "properties": {
+          "name": "Caesar Salad"
+        },
+        "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:184"
+      },
+      "end": {
+        "identity": 194,
+        "labels": [
+          "Ingredient"
+        ],
+        "properties": {
+          "unit": "ml",
+          "name": "Olive Oil",
+          "weight": 20
+        },
+        "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:194"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 184,
+            "labels": [
+              "Recipe"
+            ],
+            "properties": {
+              "name": "Caesar Salad"
+            },
+            "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:184"
+          },
+          "relationship": {
+            "identity": 262,
+            "start": 184,
+            "end": 194,
+            "type": "CONTAINS",
+            "properties": {
+              "weight": 20
+            },
+            "elementId": "5:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:262",
+            "startNodeElementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:184",
+            "endNodeElementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:194"
+          },
+          "end": {
+            "identity": 194,
+            "labels": [
+              "Ingredient"
+            ],
+            "properties": {
+              "unit": "ml",
+              "name": "Olive Oil",
+              "weight": 20
+            },
+            "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:194"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 184,
+        "labels": [
+          "Recipe"
+        ],
+        "properties": {
+          "name": "Caesar Salad"
+        },
+        "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:184"
+      },
+      "end": {
+        "identity": 195,
+        "labels": [
+          "Ingredient"
+        ],
+        "properties": {
+          "unit": "g",
+          "name": "Salt",
+          "weight": 5
+        },
+        "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:195"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 184,
+            "labels": [
+              "Recipe"
+            ],
+            "properties": {
+              "name": "Caesar Salad"
+            },
+            "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:184"
+          },
+          "relationship": {
+            "identity": 263,
+            "start": 184,
+            "end": 195,
+            "type": "CONTAINS",
+            "properties": {
+              "weight": 5
+            },
+            "elementId": "5:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:263",
+            "startNodeElementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:184",
+            "endNodeElementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:195"
+          },
+          "end": {
+            "identity": 195,
+            "labels": [
+              "Ingredient"
+            ],
+            "properties": {
+              "unit": "g",
+              "name": "Salt",
+              "weight": 5
+            },
+            "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:195"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 184,
+        "labels": [
+          "Recipe"
+        ],
+        "properties": {
+          "name": "Caesar Salad"
+        },
+        "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:184"
+      },
+      "end": {
+        "identity": 196,
+        "labels": [
+          "Ingredient"
+        ],
+        "properties": {
+          "unit": "g",
+          "name": "Pepper",
+          "weight": 2
+        },
+        "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:196"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 184,
+            "labels": [
+              "Recipe"
+            ],
+            "properties": {
+              "name": "Caesar Salad"
+            },
+            "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:184"
+          },
+          "relationship": {
+            "identity": 264,
+            "start": 184,
+            "end": 196,
+            "type": "CONTAINS",
+            "properties": {
+              "weight": 2
+            },
+            "elementId": "5:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:264",
+            "startNodeElementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:184",
+            "endNodeElementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:196"
+          },
+          "end": {
+            "identity": 196,
+            "labels": [
+              "Ingredient"
+            ],
+            "properties": {
+              "unit": "g",
+              "name": "Pepper",
+              "weight": 2
+            },
+            "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:196"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 183,
+        "labels": [
+          "Recipe"
+        ],
+        "properties": {
+          "name": "Chocolate Cake"
+        },
+        "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:183"
+      },
+      "end": {
+        "identity": 188,
+        "labels": [
+          "Ingredient"
+        ],
+        "properties": {
+          "name": "Chocolate"
+        },
+        "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:188"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 183,
+            "labels": [
+              "Recipe"
+            ],
+            "properties": {
+              "name": "Chocolate Cake"
+            },
+            "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:183"
+          },
+          "relationship": {
+            "identity": 265,
+            "start": 183,
+            "end": 188,
+            "type": "CONTAINS",
+            "properties": {
+              "weight": 200
+            },
+            "elementId": "5:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:265",
+            "startNodeElementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:183",
+            "endNodeElementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:188"
+          },
+          "end": {
+            "identity": 188,
+            "labels": [
+              "Ingredient"
+            ],
+            "properties": {
+              "name": "Chocolate"
+            },
+            "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:188"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 183,
+        "labels": [
+          "Recipe"
+        ],
+        "properties": {
+          "name": "Chocolate Cake"
+        },
+        "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:183"
+      },
+      "end": {
+        "identity": 189,
+        "labels": [
+          "Ingredient"
+        ],
+        "properties": {
+          "name": "Flour"
+        },
+        "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:189"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 183,
+            "labels": [
+              "Recipe"
+            ],
+            "properties": {
+              "name": "Chocolate Cake"
+            },
+            "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:183"
+          },
+          "relationship": {
+            "identity": 266,
+            "start": 183,
+            "end": 189,
+            "type": "CONTAINS",
+            "properties": {
+              "weight": 300
+            },
+            "elementId": "5:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:266",
+            "startNodeElementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:183",
+            "endNodeElementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:189"
+          },
+          "end": {
+            "identity": 189,
+            "labels": [
+              "Ingredient"
+            ],
+            "properties": {
+              "name": "Flour"
+            },
+            "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:189"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 183,
+        "labels": [
+          "Recipe"
+        ],
+        "properties": {
+          "name": "Chocolate Cake"
+        },
+        "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:183"
+      },
+      "end": {
+        "identity": 190,
+        "labels": [
+          "Ingredient"
+        ],
+        "properties": {
+          "name": "Eggs"
+        },
+        "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:190"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 183,
+            "labels": [
+              "Recipe"
+            ],
+            "properties": {
+              "name": "Chocolate Cake"
+            },
+            "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:183"
+          },
+          "relationship": {
+            "identity": 267,
+            "start": 183,
+            "end": 190,
+            "type": "CONTAINS",
+            "properties": {
+              "weight": 4
+            },
+            "elementId": "5:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:267",
+            "startNodeElementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:183",
+            "endNodeElementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:190"
+          },
+          "end": {
+            "identity": 190,
+            "labels": [
+              "Ingredient"
+            ],
+            "properties": {
+              "name": "Eggs"
+            },
+            "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:190"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 207,
+        "labels": [
+          "Ingredient"
+        ],
+        "properties": {
+          "name": "Feta Cheese"
+        },
+        "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:207"
+      },
+      "end": {
+        "identity": 191,
+        "labels": [
+          "Ingredient"
+        ],
+        "properties": {
+          "name": "Parmesan Cheese"
+        },
+        "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:191"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 207,
+            "labels": [
+              "Ingredient"
+            ],
+            "properties": {
+              "name": "Feta Cheese"
+            },
+            "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:207"
+          },
+          "relationship": {
+            "identity": 270,
+            "start": 207,
+            "end": 191,
+            "type": "HAS_REPLACEMENT",
+            "properties": {
+
+            },
+            "elementId": "5:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:270",
+            "startNodeElementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:207",
+            "endNodeElementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:191"
+          },
+          "end": {
+            "identity": 191,
+            "labels": [
+              "Ingredient"
+            ],
+            "properties": {
+              "name": "Parmesan Cheese"
+            },
+            "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:191"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 217,
+        "labels": [
+          "Recipe"
+        ],
+        "properties": {
+          "name": "Grilled Salmon"
+        },
+        "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:217"
+      },
+      "end": {
+        "identity": 195,
+        "labels": [
+          "Ingredient"
+        ],
+        "properties": {
+          "unit": "g",
+          "name": "Salt",
+          "weight": 5
+        },
+        "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:195"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 217,
+            "labels": [
+              "Recipe"
+            ],
+            "properties": {
+              "name": "Grilled Salmon"
+            },
+            "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:217"
+          },
+          "relationship": {
+            "identity": 272,
+            "start": 217,
+            "end": 195,
+            "type": "CONTAINS",
+            "properties": {
+              "weight": 5
+            },
+            "elementId": "5:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:272",
+            "startNodeElementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:217",
+            "endNodeElementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:195"
+          },
+          "end": {
+            "identity": 195,
+            "labels": [
+              "Ingredient"
+            ],
+            "properties": {
+              "unit": "g",
+              "name": "Salt",
+              "weight": 5
+            },
+            "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:195"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 217,
+        "labels": [
+          "Recipe"
+        ],
+        "properties": {
+          "name": "Grilled Salmon"
+        },
+        "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:217"
+      },
+      "end": {
+        "identity": 196,
+        "labels": [
+          "Ingredient"
+        ],
+        "properties": {
+          "unit": "g",
+          "name": "Pepper",
+          "weight": 2
+        },
+        "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:196"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 217,
+            "labels": [
+              "Recipe"
+            ],
+            "properties": {
+              "name": "Grilled Salmon"
+            },
+            "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:217"
+          },
+          "relationship": {
+            "identity": 273,
+            "start": 217,
+            "end": 196,
+            "type": "CONTAINS",
+            "properties": {
+              "weight": 2
+            },
+            "elementId": "5:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:273",
+            "startNodeElementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:217",
+            "endNodeElementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:196"
+          },
+          "end": {
+            "identity": 196,
+            "labels": [
+              "Ingredient"
+            ],
+            "properties": {
+              "unit": "g",
+              "name": "Pepper",
+              "weight": 2
+            },
+            "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:196"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 217,
+        "labels": [
+          "Recipe"
+        ],
+        "properties": {
+          "name": "Grilled Salmon"
+        },
+        "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:217"
+      },
+      "end": {
+        "identity": 210,
+        "labels": [
+          "Ingredient"
+        ],
+        "properties": {
+          "unit": "g",
+          "name": "Salt",
+          "weight": 5
+        },
+        "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:210"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 217,
+            "labels": [
+              "Recipe"
+            ],
+            "properties": {
+              "name": "Grilled Salmon"
+            },
+            "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:217"
+          },
+          "relationship": {
+            "identity": 274,
+            "start": 217,
+            "end": 210,
+            "type": "CONTAINS",
+            "properties": {
+              "weight": 5
+            },
+            "elementId": "5:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:274",
+            "startNodeElementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:217",
+            "endNodeElementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:210"
+          },
+          "end": {
+            "identity": 210,
+            "labels": [
+              "Ingredient"
+            ],
+            "properties": {
+              "unit": "g",
+              "name": "Salt",
+              "weight": 5
+            },
+            "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:210"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 217,
+        "labels": [
+          "Recipe"
+        ],
+        "properties": {
+          "name": "Grilled Salmon"
+        },
+        "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:217"
+      },
+      "end": {
+        "identity": 211,
+        "labels": [
+          "Ingredient"
+        ],
+        "properties": {
+          "unit": "g",
+          "name": "Pepper",
+          "weight": 2
+        },
+        "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:211"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 217,
+            "labels": [
+              "Recipe"
+            ],
+            "properties": {
+              "name": "Grilled Salmon"
+            },
+            "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:217"
+          },
+          "relationship": {
+            "identity": 275,
+            "start": 217,
+            "end": 211,
+            "type": "CONTAINS",
+            "properties": {
+              "weight": 2
+            },
+            "elementId": "5:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:275",
+            "startNodeElementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:217",
+            "endNodeElementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:211"
+          },
+          "end": {
+            "identity": 211,
+            "labels": [
+              "Ingredient"
+            ],
+            "properties": {
+              "unit": "g",
+              "name": "Pepper",
+              "weight": 2
+            },
+            "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:211"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 215,
+        "labels": [
+          "Recipe"
+        ],
+        "properties": {
+          "name": "Chicken Alfredo"
+        },
+        "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:215"
+      },
+      "end": {
+        "identity": 218,
+        "labels": [
+          "Instruction"
+        ],
+        "properties": {
+          "description": "Boil pasta in salted water until al dente.",
+          "step": 1
+        },
+        "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:218"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 215,
+            "labels": [
+              "Recipe"
+            ],
+            "properties": {
+              "name": "Chicken Alfredo"
+            },
+            "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:215"
+          },
+          "relationship": {
+            "identity": 276,
+            "start": 215,
+            "end": 218,
+            "type": "HAS_INSTRUCTION",
+            "properties": {
+
+            },
+            "elementId": "5:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:276",
+            "startNodeElementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:215",
+            "endNodeElementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:218"
+          },
+          "end": {
+            "identity": 218,
+            "labels": [
+              "Instruction"
+            ],
+            "properties": {
+              "description": "Boil pasta in salted water until al dente.",
+              "step": 1
+            },
+            "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:218"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 215,
+        "labels": [
+          "Recipe"
+        ],
+        "properties": {
+          "name": "Chicken Alfredo"
+        },
+        "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:215"
+      },
+      "end": {
+        "identity": 219,
+        "labels": [
+          "Instruction"
+        ],
+        "properties": {
+          "description": "In a separate pan, cook chicken until golden brown.",
+          "step": 2
+        },
+        "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:219"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 215,
+            "labels": [
+              "Recipe"
+            ],
+            "properties": {
+              "name": "Chicken Alfredo"
+            },
+            "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:215"
+          },
+          "relationship": {
+            "identity": 277,
+            "start": 215,
+            "end": 219,
+            "type": "HAS_INSTRUCTION",
+            "properties": {
+
+            },
+            "elementId": "5:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:277",
+            "startNodeElementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:215",
+            "endNodeElementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:219"
+          },
+          "end": {
+            "identity": 219,
+            "labels": [
+              "Instruction"
+            ],
+            "properties": {
+              "description": "In a separate pan, cook chicken until golden brown.",
+              "step": 2
+            },
+            "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:219"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 215,
+        "labels": [
+          "Recipe"
+        ],
+        "properties": {
+          "name": "Chicken Alfredo"
+        },
+        "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:215"
+      },
+      "end": {
+        "identity": 220,
+        "labels": [
+          "Instruction"
+        ],
+        "properties": {
+          "description": "In the same pan, melt butter and sauté garlic until fragrant.",
+          "step": 3
+        },
+        "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:220"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 215,
+            "labels": [
+              "Recipe"
+            ],
+            "properties": {
+              "name": "Chicken Alfredo"
+            },
+            "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:215"
+          },
+          "relationship": {
+            "identity": 278,
+            "start": 215,
+            "end": 220,
+            "type": "HAS_INSTRUCTION",
+            "properties": {
+
+            },
+            "elementId": "5:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:278",
+            "startNodeElementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:215",
+            "endNodeElementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:220"
+          },
+          "end": {
+            "identity": 220,
+            "labels": [
+              "Instruction"
+            ],
+            "properties": {
+              "description": "In the same pan, melt butter and sauté garlic until fragrant.",
+              "step": 3
+            },
+            "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:220"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 215,
+        "labels": [
+          "Recipe"
+        ],
+        "properties": {
+          "name": "Chicken Alfredo"
+        },
+        "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:215"
+      },
+      "end": {
+        "identity": 221,
+        "labels": [
+          "Instruction"
+        ],
+        "properties": {
+          "description": "Add cream and Alfredo sauce to the pan, simmer until heated through.",
+          "step": 4
+        },
+        "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:221"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 215,
+            "labels": [
+              "Recipe"
+            ],
+            "properties": {
+              "name": "Chicken Alfredo"
+            },
+            "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:215"
+          },
+          "relationship": {
+            "identity": 279,
+            "start": 215,
+            "end": 221,
+            "type": "HAS_INSTRUCTION",
+            "properties": {
+
+            },
+            "elementId": "5:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:279",
+            "startNodeElementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:215",
+            "endNodeElementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:221"
+          },
+          "end": {
+            "identity": 221,
+            "labels": [
+              "Instruction"
+            ],
+            "properties": {
+              "description": "Add cream and Alfredo sauce to the pan, simmer until heated through.",
+              "step": 4
+            },
+            "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:221"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 215,
+        "labels": [
+          "Recipe"
+        ],
+        "properties": {
+          "name": "Chicken Alfredo"
+        },
+        "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:215"
+      },
+      "end": {
+        "identity": 222,
+        "labels": [
+          "Instruction"
+        ],
+        "properties": {
+          "description": "Combine cooked pasta and chicken with the Alfredo sauce, toss until well coated.",
+          "step": 5
+        },
+        "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:222"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 215,
+            "labels": [
+              "Recipe"
+            ],
+            "properties": {
+              "name": "Chicken Alfredo"
+            },
+            "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:215"
+          },
+          "relationship": {
+            "identity": 280,
+            "start": 215,
+            "end": 222,
+            "type": "HAS_INSTRUCTION",
+            "properties": {
+
+            },
+            "elementId": "5:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:280",
+            "startNodeElementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:215",
+            "endNodeElementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:222"
+          },
+          "end": {
+            "identity": 222,
+            "labels": [
+              "Instruction"
+            ],
+            "properties": {
+              "description": "Combine cooked pasta and chicken with the Alfredo sauce, toss until well coated.",
+              "step": 5
+            },
+            "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:222"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 184,
+        "labels": [
+          "Recipe"
+        ],
+        "properties": {
+          "name": "Caesar Salad"
+        },
+        "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:184"
+      },
+      "end": {
+        "identity": 238,
+        "labels": [],
+        "properties": {
+
+        },
+        "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:238"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 184,
+            "labels": [
+              "Recipe"
+            ],
+            "properties": {
+              "name": "Caesar Salad"
+            },
+            "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:184"
+          },
+          "relationship": {
+            "identity": 281,
+            "start": 184,
+            "end": 238,
+            "type": "HAS_INSTRUCTION",
+            "properties": {
+
+            },
+            "elementId": "5:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:281",
+            "startNodeElementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:184",
+            "endNodeElementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:238"
+          },
+          "end": {
+            "identity": 238,
+            "labels": [],
+            "properties": {
+
+            },
+            "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:238"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 184,
+        "labels": [
+          "Recipe"
+        ],
+        "properties": {
+          "name": "Caesar Salad"
+        },
+        "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:184"
+      },
+      "end": {
+        "identity": 239,
+        "labels": [
+          "Instruction"
+        ],
+        "properties": {
+          "name": "caesar_instruction",
+          "content": "1. Wash and chop lettuce into bite-sized pieces.
+2. Grate Parmesan cheese.
+3. Prepare croutons by toasting bread cubes in olive oil until golden brown.
+4. In a small bowl, whisk together olive oil, lemon juice, Dijon mustard, minced garlic, Worcestershire sauce, salt, and pepper to make the dressing.
+5. Toss lettuce with dressing until evenly coated.
+6. Add grated Parmesan cheese and croutons to the salad.
+7. Serve immediately."
+        },
+        "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:239"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 184,
+            "labels": [
+              "Recipe"
+            ],
+            "properties": {
+              "name": "Caesar Salad"
+            },
+            "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:184"
+          },
+          "relationship": {
+            "identity": 282,
+            "start": 184,
+            "end": 239,
+            "type": "HAS_INSTRUCTION",
+            "properties": {
+
+            },
+            "elementId": "5:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:282",
+            "startNodeElementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:184",
+            "endNodeElementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:239"
+          },
+          "end": {
+            "identity": 239,
+            "labels": [
+              "Instruction"
+            ],
+            "properties": {
+              "name": "caesar_instruction",
+              "content": "1. Wash and chop lettuce into bite-sized pieces.
+2. Grate Parmesan cheese.
+3. Prepare croutons by toasting bread cubes in olive oil until golden brown.
+4. In a small bowl, whisk together olive oil, lemon juice, Dijon mustard, minced garlic, Worcestershire sauce, salt, and pepper to make the dressing.
+5. Toss lettuce with dressing until evenly coated.
+6. Add grated Parmesan cheese and croutons to the salad.
+7. Serve immediately."
+            },
+            "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:239"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 183,
+        "labels": [
+          "Recipe"
+        ],
+        "properties": {
+          "name": "Chocolate Cake"
+        },
+        "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:183"
+      },
+      "end": {
+        "identity": 241,
+        "labels": [
+          "Appliance"
+        ],
+        "properties": {
+          "name": "Oven"
+        },
+        "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:241"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 183,
+            "labels": [
+              "Recipe"
+            ],
+            "properties": {
+              "name": "Chocolate Cake"
+            },
+            "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:183"
+          },
+          "relationship": {
+            "identity": 283,
+            "start": 183,
+            "end": 241,
+            "type": "REQUIRES",
+            "properties": {
+
+            },
+            "elementId": "5:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:283",
+            "startNodeElementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:183",
+            "endNodeElementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:241"
+          },
+          "end": {
+            "identity": 241,
+            "labels": [
+              "Appliance"
+            ],
+            "properties": {
+              "name": "Oven"
+            },
+            "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:241"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 183,
+        "labels": [
+          "Recipe"
+        ],
+        "properties": {
+          "name": "Chocolate Cake"
+        },
+        "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:183"
+      },
+      "end": {
+        "identity": 243,
+        "labels": [
+          "Appliance"
+        ],
+        "properties": {
+          "name": "Mixing Bowl"
+        },
+        "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:243"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 183,
+            "labels": [
+              "Recipe"
+            ],
+            "properties": {
+              "name": "Chocolate Cake"
+            },
+            "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:183"
+          },
+          "relationship": {
+            "identity": 284,
+            "start": 183,
+            "end": 243,
+            "type": "REQUIRES",
+            "properties": {
+
+            },
+            "elementId": "5:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:284",
+            "startNodeElementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:183",
+            "endNodeElementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:243"
+          },
+          "end": {
+            "identity": 243,
+            "labels": [
+              "Appliance"
+            ],
+            "properties": {
+              "name": "Mixing Bowl"
+            },
+            "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:243"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 182,
+        "labels": [
+          "Recipe"
+        ],
+        "properties": {
+          "name": "Spaghetti Bolognese"
+        },
+        "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:182"
+      },
+      "end": {
+        "identity": 242,
+        "labels": [
+          "Appliance"
+        ],
+        "properties": {
+          "name": "Stove"
+        },
+        "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:242"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 182,
+            "labels": [
+              "Recipe"
+            ],
+            "properties": {
+              "name": "Spaghetti Bolognese"
+            },
+            "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:182"
+          },
+          "relationship": {
+            "identity": 285,
+            "start": 182,
+            "end": 242,
+            "type": "REQUIRES",
+            "properties": {
+
+            },
+            "elementId": "5:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:285",
+            "startNodeElementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:182",
+            "endNodeElementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:242"
+          },
+          "end": {
+            "identity": 242,
+            "labels": [
+              "Appliance"
+            ],
+            "properties": {
+              "name": "Stove"
+            },
+            "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:242"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 182,
+        "labels": [
+          "Recipe"
+        ],
+        "properties": {
+          "name": "Spaghetti Bolognese"
+        },
+        "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:182"
+      },
+      "end": {
+        "identity": 243,
+        "labels": [
+          "Appliance"
+        ],
+        "properties": {
+          "name": "Mixing Bowl"
+        },
+        "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:243"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 182,
+            "labels": [
+              "Recipe"
+            ],
+            "properties": {
+              "name": "Spaghetti Bolognese"
+            },
+            "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:182"
+          },
+          "relationship": {
+            "identity": 286,
+            "start": 182,
+            "end": 243,
+            "type": "REQUIRES",
+            "properties": {
+
+            },
+            "elementId": "5:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:286",
+            "startNodeElementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:182",
+            "endNodeElementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:243"
+          },
+          "end": {
+            "identity": 243,
+            "labels": [
+              "Appliance"
+            ],
+            "properties": {
+              "name": "Mixing Bowl"
+            },
+            "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:243"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 184,
+        "labels": [
+          "Recipe"
+        ],
+        "properties": {
+          "name": "Caesar Salad"
+        },
+        "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:184"
+      },
+      "end": {
+        "identity": 243,
+        "labels": [
+          "Appliance"
+        ],
+        "properties": {
+          "name": "Mixing Bowl"
+        },
+        "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:243"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 184,
+            "labels": [
+              "Recipe"
+            ],
+            "properties": {
+              "name": "Caesar Salad"
+            },
+            "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:184"
+          },
+          "relationship": {
+            "identity": 287,
+            "start": 184,
+            "end": 243,
+            "type": "REQUIRES",
+            "properties": {
+
+            },
+            "elementId": "5:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:287",
+            "startNodeElementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:184",
+            "endNodeElementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:243"
+          },
+          "end": {
+            "identity": 243,
+            "labels": [
+              "Appliance"
+            ],
+            "properties": {
+              "name": "Mixing Bowl"
+            },
+            "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:243"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 184,
+        "labels": [
+          "Recipe"
+        ],
+        "properties": {
+          "name": "Caesar Salad"
+        },
+        "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:184"
+      },
+      "end": {
+        "identity": 244,
+        "labels": [
+          "Appliance"
+        ],
+        "properties": {
+          "name": "Serving Glass"
+        },
+        "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:244"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 184,
+            "labels": [
+              "Recipe"
+            ],
+            "properties": {
+              "name": "Caesar Salad"
+            },
+            "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:184"
+          },
+          "relationship": {
+            "identity": 288,
+            "start": 184,
+            "end": 244,
+            "type": "REQUIRES",
+            "properties": {
+
+            },
+            "elementId": "5:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:288",
+            "startNodeElementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:184",
+            "endNodeElementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:244"
+          },
+          "end": {
+            "identity": 244,
+            "labels": [
+              "Appliance"
+            ],
+            "properties": {
+              "name": "Serving Glass"
+            },
+            "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:244"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 245,
+        "labels": [
+          "Appliance"
+        ],
+        "properties": {
+          "name": "Plate"
+        },
+        "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:245"
+      },
+      "end": {
+        "identity": 244,
+        "labels": [
+          "Appliance"
+        ],
+        "properties": {
+          "name": "Serving Glass"
+        },
+        "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:244"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 245,
+            "labels": [
+              "Appliance"
+            ],
+            "properties": {
+              "name": "Plate"
+            },
+            "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:245"
+          },
+          "relationship": {
+            "identity": 289,
+            "start": 245,
+            "end": 244,
+            "type": "HAS_REPLACEMENT",
+            "properties": {
+
+            },
+            "elementId": "5:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:289",
+            "startNodeElementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:245",
+            "endNodeElementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:244"
+          },
+          "end": {
+            "identity": 244,
+            "labels": [
+              "Appliance"
+            ],
+            "properties": {
+              "name": "Serving Glass"
+            },
+            "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:244"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 184,
+        "labels": [
+          "Recipe"
+        ],
+        "properties": {
+          "name": "Caesar Salad"
+        },
+        "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:184"
+      },
+      "end": {
+        "identity": 191,
+        "labels": [
+          "Ingredient"
+        ],
+        "properties": {
+          "name": "Parmesan Cheese"
+        },
+        "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:191"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 184,
+            "labels": [
+              "Recipe"
+            ],
+            "properties": {
+              "name": "Caesar Salad"
+            },
+            "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:184"
+          },
+          "relationship": {
+            "identity": 290,
+            "start": 184,
+            "end": 191,
+            "type": "CONTAINS",
+            "properties": {
+
+            },
+            "elementId": "5:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:290",
+            "startNodeElementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:184",
+            "endNodeElementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:191"
+          },
+          "end": {
+            "identity": 191,
+            "labels": [
+              "Ingredient"
+            ],
+            "properties": {
+              "name": "Parmesan Cheese"
+            },
+            "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:191"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 184,
+        "labels": [
+          "Recipe"
+        ],
+        "properties": {
+          "name": "Caesar Salad"
+        },
+        "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:184"
+      },
+      "end": {
+        "identity": 206,
+        "labels": [
+          "Ingredient"
+        ],
+        "properties": {
+          "unit": "g",
+          "name": "Lettuce",
+          "weight": 150
+        },
+        "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:206"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 184,
+            "labels": [
+              "Recipe"
+            ],
+            "properties": {
+              "name": "Caesar Salad"
+            },
+            "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:184"
+          },
+          "relationship": {
+            "identity": 291,
+            "start": 184,
+            "end": 206,
+            "type": "CONTAINS",
+            "properties": {
+
+            },
+            "elementId": "5:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:291",
+            "startNodeElementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:184",
+            "endNodeElementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:206"
+          },
+          "end": {
+            "identity": 206,
+            "labels": [
+              "Ingredient"
+            ],
+            "properties": {
+              "unit": "g",
+              "name": "Lettuce",
+              "weight": 150
+            },
+            "elementId": "4:3bd8f3b0-518c-49dd-b01d-7b836c12f7ba:206"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  }
+]
